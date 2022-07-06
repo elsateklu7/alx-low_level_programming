@@ -10,18 +10,15 @@ int main(void)
 	int i;
 
 	printf("Infinite loop incoming :(\n");
-/**
-*while loop -comment out	i = 0;
+
+/**while loop -comment out	i = 0;
 *
 *	while (i < 10)
 *	{
 *		putchar(i);
 *
 *	}
-*main - print ("Infinite loop avoided! \\o/\n");
-*Return:0
 */
-
 	printf("Infinite loop avoided! \\o/\n");
 
 	return (0);
